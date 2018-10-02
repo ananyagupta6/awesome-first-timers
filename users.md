@@ -523,3 +523,8 @@
   Place: Allahabad, India  
   Bio: Worst Web Developer  
   GitHub: [swaager](https://github.com/swaager)  
+  
+- Name: Ananya Gupta  
+  Place: Manipal, India  
+  Bio:  Passionate in competitive coding  
+  GitHub: [ananyagupta6](https://github.com/ananyagupta6)  
